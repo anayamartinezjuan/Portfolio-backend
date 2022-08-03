@@ -1,0 +1,15 @@
+[
+    {
+        "nombre" : " Proyecto 1 " ,
+        "descripcion" : " Use HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor " ,
+        "imagen" : " https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg " ,
+        "enlace" : " http://cv.giulianaolmos.guixon.com/ "
+    },
+    {
+        "nombre" : " Proyecto 2 " ,
+        "descripcion" : " Use HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor " ,
+        "imagen" : " https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg " ,
+        "enlace" : " http://cv.giulianaolmos.guixon.com/ "
+    }
+
+]
