@@ -1,18 +1,16 @@
 [
     {
-        "nombre" : " Giuliana Olmos " ,
-        "profesión" : " Desarrollador de pila completa " ,
-        "foto" : " https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg " ,
+        "nombre" : " Juan Anaya Martinez " ,
+        "profesión" : " Ingeniero De Sistemas " ,
+        "foto" : " https://i.ibb.co/bHPP9Rw/profile-pic-2.png " ,
         "about_me" : " Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ámbito de la tecnología. " ,
         "habilidades" : [
         " Javascript " ,
         " NodoJs " ,
         " ReactJS " ,
-        " Angular " ,
         " HTML " ,
         " CSS " ,
-        " Misql " ,
-        " MongoDB "
+        " Misql "
         ]
     }
 ]
